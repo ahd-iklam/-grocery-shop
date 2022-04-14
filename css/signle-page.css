@@ -1,0 +1,71 @@
+.form-content {
+    width: 65%;
+    margin: auto;
+    border: 3px solid #ddd;
+    border-radius: .9rem;
+}
+
+.form-content .register-form form .form-group {
+    width: 100%;
+    margin: 1rem auto;
+    padding: 1rem;
+}
+
+.form-content .register-form form label {
+    color: #ffc153;
+}
+
+.form-content .register-form form input {
+    display: block;
+    width: 90%;
+    height: 40px;
+    border: none;
+    border-bottom: 2px solid #ffc153;
+    border-radius: .8rem;
+    padding: 1.4rem;
+}
+
+.form-content .register-form form textarea {
+    display: block;
+
+    resize: none;
+    width: 90%;
+    height: 100px;
+    padding: 1.2rem;
+    border-radius: .7rem;
+}
+
+/******************* START SINGLE PAGE PRODUCT *********************************/
+.shop-form {
+    margin-top: 2rem;
+    border: 2px solid #ddd;
+    padding: 1rem;
+}
+
+.shop-form button {
+    text-align: center;
+}
+
+table {
+    box-shadow: 7px 9px 7px #ddd;
+}
+
+table thead th {
+    color: blue;
+}
+
+table tbody td {
+    color: #ffc153;
+    font-size: 19px;
+}
+
+.else_message {
+    background-color: #ffc153;
+    color: #007bff;
+    padding: 1rem;
+    margin: 1rem auto;
+    border-radius: .5rem;
+    font-size: 19px;
+    font-weight: bold;
+    width: 70%;
+}
